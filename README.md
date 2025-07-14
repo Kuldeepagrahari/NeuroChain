@@ -1,3 +1,5 @@
+<h2>#Team- Infinity</h1>
+
 # 🧠 NeuroChain – AI-Powered Cognitive Supply Chain Management System
 
 > An intelligent, real-time, and self-adaptive platform to revolutionize retail supply chains — from **demand forecasting** and **inventory equalization** to **last-mile delivery optimization**, **vendor auto-integration**, and **voice-assisted warehouse control**.
